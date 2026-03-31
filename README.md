@@ -1,4 +1,4 @@
-# Hi, I'm Swattik! 👋
+# Hi, I'm Varad! 👋
 - **Branch:** B.Tech in Computer Science and Engineering
 - **Specialization:** Artificial Intelligence and Machine Learning
 - **University:** VIT Bhopal University
